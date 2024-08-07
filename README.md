@@ -83,36 +83,6 @@ In the project directory, you can run:
 ├── README.md
 └── ...
 ```
-### Project Structure
-
-```
-├── public
-│   ├── index.html
-│   └── ...
-├── src
-│   ├── components
-│   │   ├── AddBudgetModal.js
-│   │   ├── AddExpenseModal.js
-│   │   ├── BudgetCard.js
-│   │   ├── Calculator.js
-│   │   ├── TotalBudgetCard.js
-│   │   ├── UncategorizedBudgetCard.js
-│   │   ├── ViewExpensesModal.js
-│   │   └── ...
-│   ├── contexts
-│   │   ├── BudgetsContext.js
-│   │   └── ...
-│   ├── styles
-│   │   ├── Calculator.css
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
-```
 
 ### License
 
